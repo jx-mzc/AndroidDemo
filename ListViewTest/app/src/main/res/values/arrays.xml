@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="set_name">
+        <item>保密设置</item>
+        <item>安全</item>
+        <item>系统设置</item>
+        <item>上网</item>
+        <item>我的文档</item>
+        <item>GPS导航</item>
+        <item>我的音乐</item>
+        <item>E-mail</item>
+    </string-array>
+</resources>
