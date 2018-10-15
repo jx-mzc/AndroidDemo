@@ -32,5 +32,4 @@
             android:layout_height="wrap_content"
             android:text="发送"/>
     </LinearLayout>
-
 </LinearLayout>
